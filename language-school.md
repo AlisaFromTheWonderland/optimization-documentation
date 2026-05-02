@@ -1,13 +1,8 @@
-Main Page
-Before Admin
-<img width="783" height="762" alt="Screenshot at May 01 12-07-28" src="https://github.com/user-attachments/assets/bb8107bd-a29a-4691-a8bf-a92311a18caf" />
-After Admin
-<img width="1280" height="680" alt="IMG_2869" src="https://github.com/user-attachments/assets/fcd928a0-df38-4b4c-8dc5-e15dcce9b1db" />
-
 ## Main Page Optimization
 
 | Before Admin | After Admin |
 |---|---|
+| <img height="100" alt="Screenshot at May 01 12-07-28" src="https://github.com/user-attachments/assets/bb8107bd-a29a-4691-a8bf-a92311a18caf" /> | <img height="100" alt="IMG_2869" src="https://github.com/user-attachments/assets/fcd928a0-df38-4b4c-8dc5-e15dcce9b1db" />
 | Simple list of groups with only **group name** and **link to the group** | Structured main page with a **full dashboard-style table** |
 | Minimal navigation value: the page works mostly as a **link directory** | Main page works as an **operational control panel** for daily admin tasks |
 | Limited visibility of learning process and group details | Added key fields for quick management: **Name, Link, Schedule, Payment, Comment, Quantity, Format, Age, Level, Attendance** |
