@@ -19,9 +19,7 @@
 
 | Before Admin | After Admin |
 |---|---|
-| <img height="100" alt="Screenshot at May 02 20-39-16" src="https://github.com/user-attachments/assets/1feed89b-ab9c-474e-a349-bdbcc5ae32b9" />
- | <img height="100" alt="image" src="https://github.com/user-attachments/assets/7da07518-da78-4a98-9dfe-c30b2874e4cf" />
- | 
+| <img height="100" alt="Screenshot at May 02 20-39-16" src="https://github.com/user-attachments/assets/1feed89b-ab9c-474e-a349-bdbcc5ae32b9" /> | <img height="100" alt="image" src="https://github.com/user-attachments/assets/7da07518-da78-4a98-9dfe-c30b2874e4cf" /> | 
 | Payment and attendance were stored in a **simple monthly table** with limited structure | Payment and attendance were reorganized into a **more structured operational card** |
 | The sheet mainly showed **student names, lesson dates, and payment date** | The sheet now includes **lesson dates, teacher, tariff, payment block, attendance, absences, warnings, carry-over values, and comments** |
 | Payment tracking was simplified to a single block like **“payment date”** | Payment tracking became more detailed with separate logic for **to be paid / paid / method / comments / left from previous month / actual payment** |
